@@ -141,4 +141,4 @@ If you have any questions or feedback, feel free to open an issue or contribute 
 
 ### Author
 
-- **Long Maker Long Deng** - _Software Engineering Student at ALU_
+- [**Long Maker Long Deng**](https://github.com/longmaker2) - _Software Engineering Student at ALU_
